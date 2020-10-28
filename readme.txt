@@ -18,3 +18,16 @@ git config --global user.email "ваш емайл"
 git config --global user.name "ваше имя"
 
 домашняя работа 
+
+<!DOCTYPE html>
+<html>
+    <head>
+         <style>
+         </style>
+    </head>
+    <body>
+         <div class=""></div>
+
+         <script type="text/javascript"></script>
+    </body>     
+</html>
