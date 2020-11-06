@@ -74,3 +74,16 @@ document.getElementById("body").style.backgroundColor = timeColor;
 document.getElementById("time").innerText = time;
 
 }, 1000);
+body {
+background-color: black;
+margin: 0;
+padding: 0;
+}
+
+#time {
+text-align: center; color: white:
+font-size: 144px;
+font-family: Arial;
+font-weight: 500;
+
+}
